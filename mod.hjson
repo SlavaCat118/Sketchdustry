@@ -1,0 +1,8 @@
+name: "sketchdustry"
+displayName: "Sketchdustry"
+author: Yourself
+description: "Makes mindustry look like a drawing"
+version: "1.0"
+minGameVersion: "123.1"
+dependencies: [ ]
+hidden: true
